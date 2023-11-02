@@ -1,0 +1,20 @@
+
+h1{
+    font-style: italic;
+    color: greenyellow;
+    background: black;
+}
+
+#bulb{
+    
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: "black";
+}
+button{
+    padding: 10px;
+    margin: 30px;
+}
+
